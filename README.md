@@ -9,7 +9,7 @@ AA need these things below:
 # How to install AA?
 You can download the source code at here: <br>
 <code> https://source.aaps.io/aainstall/php </code><br>
-(Website Under Constructing, the PHP file doesn't include the images, recommended for updating)
+(Website Under Constructing, the PHP file doesn't include the images, recommended for updating)<br>
 Or, if you need to install a **FULLY NEW** AA, You can download the **zip**, **.tar.gz** and **7z** file ( **With Images and things you might need** ) here: <br>
 <code> https://source.aaps.io/aainstall/zippedfile </code><br>
 # Where's the wiki of AA?
